@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi, I'm Raymond Tao!
 
-<!--
-**Raymondtaoo/Raymondtaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Sophomore Software Engineering Undergrad @McMasterU**  
+🌐 Visit my [personal website](https://raymondt.me) for more about me.
 
-Here are some ideas to get you started:
+## About Me
+As a passionate software engineering student, I'm always eager to learn and take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Feel free to check out my repositories for detailed insights into my work
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/raymondtt/)
